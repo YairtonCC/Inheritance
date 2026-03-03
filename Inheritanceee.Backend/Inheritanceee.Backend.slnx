@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../project.Frontend/project.Frontend.csproj" />
+  <Project Path="Inheritanceee.Backend.csproj" />
+</Solution>
